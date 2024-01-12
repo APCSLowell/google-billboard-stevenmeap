@@ -21,7 +21,7 @@ public class BillboardTester {
      GoogleBillboard.main(null);
 
      // assertion
-     assertEquals("2.718281828\n", bos.toString()); 
+     assertEquals("7.42746639E9\n", bos.toString()); 
 
      // undo the binding in System
      System.setOut(originalOut);
