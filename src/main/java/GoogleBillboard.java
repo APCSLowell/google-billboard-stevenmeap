@@ -6,5 +6,6 @@ public class GoogleBillboard {
 		System.out.println("Not the right string, tests will fail!");
 	}
 
+	
 }
 
